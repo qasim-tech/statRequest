@@ -1,0 +1,6 @@
+To compile and run the tests, follow the following steps:
+1 - Run the 'make' command to compile and build.
+2 - Execute './unittest' to run the tests.
+
+GIT repository:
+      https://github.com/qasim-tech/statRequest.git
